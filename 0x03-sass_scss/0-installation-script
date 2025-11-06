@@ -1,0 +1,22 @@
+# Steps to Install SASS on Windows
+
+1. I Opened Command Prompt or PowerShell or git bash
+
+2. I Navigated to my project repository:
+   cd alx-intermediate-frontend
+
+3. I Created a new directory for the SASS project:
+   mkdir 0x03-sass_scss
+   cd 0x03-sass_scss
+
+4. I already Installed Node.js
+
+5. I Verified the installation:
+   node -v
+   npm -v
+
+6. Installed SASS using npm:
+   npm install sass -v 3.7.4
+
+7. Verified SASS installation:
+   npx sass --version
